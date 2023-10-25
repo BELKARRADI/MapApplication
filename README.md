@@ -8,7 +8,7 @@
       <img width="960" alt="Capture d'écran 2023-10-26 002320" src="https://github.com/BELKARRADI/MapApplication/assets/125222396/53976040-8a08-43db-8f15-088e87cc4949">
       <li>Test 3 : Test du service Delete Position permettant la suppression d'une position précédemment enregistrée.<br/></li>
       <img width="960" alt="Capture d'écran 2023-10-26 002300" src="https://github.com/BELKARRADI/MapApplication/assets/125222396/531eba68-a7d8-4e59-ab89-72e468868221">
-      <li>Voici un aperçu des enregistrements effectués dans la table 'Etudiant'.</li>
+      <li>Voici un aperçu des enregistrements effectués dans la table 'position'.</li>
       <img width="779" alt="Capture d'écran 2023-10-26 002351" src="https://github.com/BELKARRADI/MapApplication/assets/125222396/bb4d5943-555a-4525-af3f-2f15176eda4c">
       <li>Voici une vidéo de démonstration de l'application Android.</li>
       https://github.com/BELKARRADI/MapApplication/assets/125222396/f1462150-8913-4ab7-83cb-f6af1ebdb322
